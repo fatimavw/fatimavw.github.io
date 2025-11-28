@@ -110,7 +110,7 @@ author:
   name             : "F.Omidi"
   avatar           : "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto,w_1400/v1747795263/vendor/10058/catalog/product/2/0/20250301012708_file_67c2626ca3560.jpg"
   bio              : I'm Computer Engineering Student.
-  location         : "تهران"
+  location         : "Tehran"
   email            : fatimaomidi63@gmail.com
   twitter: 
   linkedin: 
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/fvtimaw"
 
 # Site Footer
 footer:
