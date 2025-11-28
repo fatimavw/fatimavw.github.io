@@ -9,15 +9,11 @@ title: Test blog post
 
 # Fatima's First Computer Art Project
 
-[My Painting](../assets/images/MyPainting.jpg "My Painting")
+![My Painting](../assets/images/MyPainting.jpg "My Painting")
 
 ``` python
 import turtle
 import random
-
-
-turtle.bgcolor("purple")
-
 def rectangle(l, a, c, x, y, o):
     f = turtle.Turtle()
     f.penup()
