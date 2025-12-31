@@ -2,9 +2,9 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends around the world
+title: My friends in IRAN
 tags: [friends]
-modified: 4-10-2019
+modified: 12-31-2025
 comments: true
 ---
 
