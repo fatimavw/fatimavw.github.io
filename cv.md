@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /cv/
-title: Resume
+title: About me
 tags: [resume, cv]
 modified: 12-31-2025
 comments: false
