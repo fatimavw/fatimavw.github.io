@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Test blog post
+title: My Painting
 ---
 
 - We wrote some code
