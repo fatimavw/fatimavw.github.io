@@ -3,35 +3,37 @@ layout: single
 author_profile: true
 permalink: /courses/
 title: Courses
-tags: [Studying, courses]
-modified: 9-14-2019
+tags: [Studying, courses, PE]
+modified: 12-31-2025
 comments: false
 ---
 
 
 |           | **Current**                    |
+|****|******|********************************|
+|2025|Summer  | **Computer Programming In Python language**         |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2025|Fall  | **HTML & CSS learning** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|2025|Fall  | **Computer Programming In C language** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
-
-
-|           | **Past**                       |
+|2025|Winter| **Learning front-end development** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
+|2025|Winter| **Learning JavaScript** |
+|    |      | **Past**                       |
+|****|******|********************************|
+|2024|Summer| **Attending Badminton Course at Advanced level**         |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
+|2023|Spring| **Attending Badminton Course at beginner level** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
+|2023|Spring| **Attending CAE course for English learning** |
 |----|------|--------------------------------|
-|2018|Fall  | **<a href="/ds97/">Data Structures</a>**            |
+|2023|Fall  | **Start learning violin**            |
 |----|------|--------------------------------|
-|2018|Fall  | **Advanced Programming - C#** |
+|2022|Fall  | **Paticipation in a course on public speaking and effecive communication** |
 |----|------|--------------------------------------------|
-|2018|Fall  | **Natural Language Processing (Graduate)** |
+|2021|Fall  | **Participation in a course on charrocal drawing** |
 |----|------|--------------------------------------------|
-|2018|Spring| **Advanced Programming - C#**             |
+|2021|Spring| **Attending Teakwondo training**             |
 |----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2021|Spring| **Attending a German language Course** |
