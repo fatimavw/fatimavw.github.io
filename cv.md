@@ -9,24 +9,27 @@ comments: false
 ---
 
 
-# ekhteshash
+# My City
+- I was born in Hamedan city , But I have been grown in **Tehran**. 
+- The nice capital of my country! _IRAN_
 
-werwe
-rwe
-
-## Tehran
-lsdfksd
-
-### Azadi
-### Enghelab
-
-- mored 1
-- mored 2
-
-My favorite website is [yahoo](http://www.yahoo.com).
+## Study Branch
+- I am a graduate of _Mathematics and Physics_.
+- I achieved a rank of **166th** in the national university entrance examtination.
 
 
-## Esfahan
+### Living zone
+I am living in Narmak zone in beautifyl Tehran.
+### Talents
+- I have practiced skating continuously for 7 years.
+- I have received an English language diploma ub 2023.
+- I practiced badminton and swimmimg for two years, and I played the violin for one year.
+
+
+My favorite website is [pinterest](https://www.pinterest.com/).
+
+
+## 
 ldkfjs
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
