@@ -8,10 +8,13 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+### My friends
+* _Golshid Asadi_
+* _Anahita Khodamoradi_
+* _Barin Rezaei_
+* _Sanaz Bahramlu_
+* _Narges HosseiniKhah_
+* _Setayesh Samani_
 
 
 
