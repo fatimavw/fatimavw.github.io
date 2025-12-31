@@ -4,7 +4,8 @@ title: Interstellar Movie
 ---
 
 
-
+# Interstellar Movie _A masterpiece of history_
+![Interstellar](../assets/images/interstellar_film_poster.jpg "Interstellar")
 
 Interstellar is a 2014 epic science fiction film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan. It features an ensemble cast led by Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where Earth is suffering from catastrophic blight and famine, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind.
 
@@ -27,4 +28,3 @@ With insufficient fuel, Cooper and Brand resort to a slingshot around Gargantua,
 
 The tesseract, its purpose fulfilled, collapses before ejecting Cooper and TARS. Cooper wakes up on a station orbiting Saturn. He reunites with Murph, now elderly and on her deathbed, who tells him to seek out Brand. Cooper and TARS take a spacecraft to rejoin Brand and CASE, who are setting up the human colony on Edmunds' habitable planet. 
 
-![Interstellar](../assets/images/interstellar_film_poster.jpg "Interstellar")
