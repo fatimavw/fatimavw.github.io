@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Director](https://en.wikipedia.org/wiki/Christopher_Nolan)
+* [NewYork City](https://www.nyc.gov/main)
+* [About My favorite color](https://www.hunterlab.com/blog/the-color-blue/)
+* [My university](https://www.iust.ac.ir/)
 
