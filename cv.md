@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /About Me/
+permalink: /cv/
 title: Resume
-tags: [resume, About me]
+tags: [resume, cv]
 modified: 12-31-2025
 comments: false
 ---
